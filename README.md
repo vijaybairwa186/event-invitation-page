@@ -1,1 +1,1 @@
-This My Project URL : https://myparty-invitation.netlify.app
+This is My Project URL : https://myparty-invitation.netlify.app
